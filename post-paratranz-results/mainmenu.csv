@@ -1,0 +1,73 @@
+﻿ID,English,Others,Japanese
+LangName,English,Spoilerish,日本語
+MainMenu,Main Menu,Main Menu,メインメニュー
+StartGame,Start Game,Catch Ghosts,ゲームをスタート
+Options,Options,Options,オプション
+ExitGame,Exit Game,Got Scared!,出口
+KeyConfigMenu,Key Configuration,Key Configuration,キー設定
+KeyConfiguration,Key Configuration :-,Key Configuration :-,キー設定:-
+Up,Move Up,Move Up,上
+Down,Move Down,Move Down,下
+Left,Move Left,Move Left,左
+Right,Move Right,Move Right,右
+Run,Run,Run,走る
+Hunt,Hunt,Fuck Ghost,くそ
+Interact,Interact,Interact,相互作用
+Flashlight,Torch Toggle,Use Torch,トーチを使う
+Use,Use Item,Use Item,使用
+Drop,Drop Item,Drop Item,落とす
+Slot1,Select Slot1,Select Slot1,スロット1
+Slot2,Select Slot2,Select Slot2,スロット2
+Slot3,Select Slot3,Select Slot3,スロット3
+Journal,Journal,Journal,ジャーナル
+Exchange,Tess Assist,Tatsuka Assist,立香
+Reset,Reset,Reset,リセット
+optionstitle,Options:-,Options:-,オプション:-
+music,Musics,Musics,音楽
+sound,Sounds,Sounds,音
+voice,Voices,Voices,声
+difficultytitle,Difficulty:-,Who’s the boss:-,困難：-
+difficulty1,Easy,You,簡単
+difficulty2,Normal,Still you,普通
+difficulty3,Nightmare,Ghost,悪夢
+erasedata,Erase Data,Erase Data,消す
+erasedatatitle,Erase Data:-,Erase Data:-,消す:-
+delete,Delete,Delete,データの消去:-
+alldata,All Data,All Data,すべてのデータ
+money,Money,Money,お金
+memories,Memories,Memories,思い出
+travelpass,Travel Pass,Travel Pass,トラベルパス
+freeghost,Free Ghosts,Free Ghosts,無料の幽霊
+deletevt,Delete VT Account,Delete VT Account,VTの削除
+canceltv,Cancel TV Sub,Cancel TV Sub,テレビの購読
+throwflash,Erase Flash Drives,Erase Flash Drives,USB スティック
+huntingstuff,Throw Away Gears,Throw Away Gears,歯車を捨てる
+lunacloth,Collected Clothes,Collected Clothes,集めた服
+allrecruits,Recruits & Quests,Recruits & Quests,クエストと新兵
+eraseset0,Do you want to delete all you data?,Do you want to delete all you data?,すべてのデータを消去しますか?
+eraseset1,Do you want to donate all your money to a ghost sanctuary?,Do you want to donate all your money to a ghost sanctuary?,幽霊保護区にお金を寄付しますか？
+eraseset2,"Do you want to erase all your memories back to when you got back here? You will forget number of ghost captured, Luna Fucked and ghost fucked.","Do you want to erase all your memories back to when you got back here? You will forget number of ghost captured, Tsukiko fucked and ghost fucked.",太一の記憶をゲーム開始時まで戻しますか？
+eraseset3,Throw Away all your travel Passes? You will need to buy them again to visit different sites.,Throw Away all your travel Passes? You will need to buy them again to visit different sites.,旅行券を捨てますか？ マップをプレイしたい場合は、再度購入する必要があります。
+eraseset4,Do you want to free all ghosts the captivity?,Do you want to free all ghosts the captivity?,捕まえた幽霊をすべて解放しますか？
+eraseset5,Do you want to delete you Video Tube Account and create a new one?,Do you want to delete you Video Tube Account and create a new one?,VideoTube アカウントを削除して、新しいアカウントを作成しますか?
+eraseset6,Do you want to cancel all your TV subscriptions?,Do you want to cancel all your TV subscriptions?,テレビの購読をキャンセルしますか?
+eraseset7,Do you want to throw away all flash drives?,Do you want to throw away all flash drives?,USB フラッシュ ドライブをすべて捨てますか?
+eraseset8,Do you want to clean out your assistant’s wardrobe?,Do you want to clean out your assistant’s wardrobe?,集めた服を全部捨てませんか？
+eraseset9,Throw away all your investigation gears?,Throw away all your investigation gears?,調査機材をすべて捨てますか?
+eraseset10,Throw all possessed items such as doll and soul orb?,"Throw soul orb, doll and masturbator?",ドールやソウルオーブなど所持アイテムを全て捨てる？
+eraseset11,Erase all recruit data and quests?,Erase all recruit data and quests?,新兵データとクエストをすべてリセットしますか？
+yes,Yes,Yes,はい
+no,No,No,いいえ
+textspeed,Dialogue Text Speed,Dialogue Text Speed,テキストの速度
+slow,Slow,Slow,遅い
+normal,Normal,Normal,普通
+fast,Fast,Fast,速い
+waitinput,Waiting for your input...,Waiting for your input...,入力を待っています...
+restoredefault,Restore Default,Restore Default,デフォルトに戻す
+ghostitems,Possessed Items,Ghostly Sex-Toys,所持アイテム
+applychanges,Apply Changes,Apply Changes,変更を適用する
+fullscre,Fullscreen,Fullscreen,全画面表示
+resolution,Screen Resolution,Screen Resolution,画面の解像度
+rerolcap,Reroll For Captured Ghosts,Reroll! It's Same Ghost,ゴーストを再ロールする
+textsize,Text Size,Text Size,文字サイズ
+sample,SampLe,SampLe,サンプル
