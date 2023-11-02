@@ -1,6 +1,6 @@
 /.idea/
 /temp/
-/.env/
+.env
 /post-paratrans-results/
 /pre-paratranz-results/
 /paratranz-download/
